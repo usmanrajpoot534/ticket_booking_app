@@ -14,3 +14,9 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+create a new file .env at root of the project.
+add below variables in .env file.
+BASE_URL = https://api.themoviedb.org/3
+API_KEY = Your Api Key
+API_ACCESS_TOKEN = Your Acceess Token
